@@ -2,7 +2,9 @@
 import React, { useState, useEffect } from 'react';
 import Feedback from './components/Feedback/Feedback';
 import Options from './components/Options/Options';
-import './styles.css';
+// src/App.jsx
+import './index.css';
+
 
 const App = () => {
   // Стан для зберігання типів відгуків
